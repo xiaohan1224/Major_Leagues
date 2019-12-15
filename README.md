@@ -5,6 +5,7 @@
 Resource: https://projects.fivethirtyeight.com/nba-model/nba_elo.csv
 
 The dataset contains game-by-game Elo ratings and forecasts back to 1946. As a fan of Kobe Bryant, I choose NBA dataset for investigation. For this project, i'm using regression models to predict the score for each team. The models used are: 
+      
         1. Linear Regression
         2. Random Forest 
         3. Gradient Boosting  
