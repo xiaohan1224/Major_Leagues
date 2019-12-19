@@ -14,7 +14,7 @@ The dataset contains game-by-game Elo ratings and forecasts back to 1946. As a f
    To determine the score of two teams in NBA games. 
 
 ## Main steps:
-   1. Data Prepartion
+   1. Data Preparation
    2. Feature correlation
    4. Linear, Random Forest and Gradient boosting regression models are applied
 
