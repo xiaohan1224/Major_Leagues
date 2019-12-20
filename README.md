@@ -1,4 +1,4 @@
-## Major_Leagues
+## Major Leagues
 
 ## NBA Dataset Regression
 
