@@ -27,7 +27,7 @@ For this particular problem, gradient boosting overperfomed the other two regres
 
 .
 ├── notebooks 
-│     └── Major_Leagues.ipyb
+│     └── Major_Leagues.ipynb
 ├── README.md
 └── data
       └── nba_elo.csv
